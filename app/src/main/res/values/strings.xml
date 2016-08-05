@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">VkClient</string>
+    <string name="dialogs">Dialogs</string>
+    <string name="last_msg">Last message</string>
+    <string name="msg_date">04.08.2016</string>
+    <string name="user_name">User Name</string>
+    <string name="loading">Loading…</string>
+    <string name="some_msg">Some message</string>
+    <string name="my_avatar">myAvatarUrl</string>
+    <string name="token">vkToken</string>
+    <string name="vkClientPrefs">VkClientPrefs</string>
+    <string name="messages">Messages</string>
+    <string name="turn_on_wifi">Turn on wifi!</string>
+    <string name="new_msg_hint">Write new message!</string>
+    <string name="error_msg">Error occured. Try later!</string>
+    <integer name="com_vk_sdk_AppId">5574410</integer>
+</resources>
